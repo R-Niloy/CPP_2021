@@ -1,0 +1,2 @@
+C:\Users\niloy\Desktop\CPP_2021\AlgorithmWithCPP\Debug\AlgorithmWithCPP.exe
+C:\Users\niloy\Desktop\CPP_2021\AlgorithmWithCPP\Debug\AlgorithmWithCPP.pdb
